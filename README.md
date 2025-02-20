@@ -15,18 +15,18 @@ GitTimeCast is an advanced time-series forecasting platform that predicts trends
 
 # 🛠️ Tech Stack
 ### Frontend (React + MUI)
-✅React.js (UI Framework)
-✅Material UI (MUI) (Styled Components)
-✅Recharts (Data Visualization)
-✅Fetch API (Data Fetching)
+* React.js (UI Framework)
+* Material UI (MUI) (Styled Components)
+* Recharts (Data Visualization)
+* Fetch API (Data Fetching)
 ### Backend (Python + Flask + ML Models)
 * Flask (REST API)
 * TensorFlow/Keras (LSTM Forecasting)
-Facebook Prophet (Prophet Forecasting)
-StatsModels (SARIMA/ARIMA Forecasting)
-Pandas, NumPy, Matplotlib (Data Processing & Visualization)
+* Facebook Prophet (Prophet Forecasting)
+* StatsModels (SARIMA/ARIMA Forecasting)
+* Pandas, NumPy, Matplotlib (Data Processing & Visualization)
 ### Services & Deployment
-GitHub API (Data Extraction)
-Google Cloud Storage (Image Hosting)
-Docker (Containerization)
+* GitHub API (Data Extraction)
+* Google Cloud Storage (Image Hosting)
+* Docker (Containerization)
 
